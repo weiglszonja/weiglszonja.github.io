@@ -18,27 +18,79 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Junior Data Engineer"
+  company = "Realeyes"
+  company_url = "https://www.realeyesit.com/"
+  location = "Budapest, Hungary"
+  date_start = "Sept 2018"
+  date_end = "Oct 2019"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * I used Python, AWS, MS SQL Databases for my everyday tasks.
+  * I collaborated with other teams to build a scalable storage system on AWS.
+  * I was also responsible for integrating datasets into our databases, 
+  and improving our data visualization tool.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Junior Software Engineer"
+  company = "Synetiq"
+  company_url = "https://www.synetiq.net/"
+  location = "Budapest, Hungary"
+  date_start = "Dec 2017"
+  date_end = "Aug 2018"
+  description = """
+  * I was focusing on data processing pipeline development and testing in Python.
+  * For an independent research project, 
+  I learnt how to cluster emotional responses to find groups of people 
+  with similar response profiles.
+  """
+  
+  [[experience]]
+  title = "Junior Research Manager"
+  company = "Synetiq"
+  company_url = "https://www.synetiq.net/"
+  location = "Budapest, Hungary"
+  date_start = "Jun 2017"
+  date_end = "Nov 2017"
+  description = """
+  * Manage, organize and participate in monthly measurement weeks, 
+  supervise and train research assistants.
+  """
+  
+  [[experience]]
+  title = "Laboratory Supervisor"
+  company = "Synetiq"
+  company_url = "https://www.synetiq.net/"
+  location = "Budapest, Hungary"
+  date_start = "Sept 2016"
+  date_end = "May 2017"
+  description = """
+  * Participate in monthly measurement weeks, manage and help out 
+  research assistants with applying biometric sensors.
+  """
+  
+  [[experience]]
+  title = "Graduate Student"
+  company = "Institute of Cognitive Neuroscience and Psychology, MTA TTK"
+  company_url = "http://www.ttk.hu/kpi/en/"
+  location = "Budapest, Hungary"
+  date_start = "Jan 2016"
+  date_end = "Aug 2016"
+  description = """
+  *  Study the interictal functional connectivity network changes in 
+  patients with temporal lobe epilepsy.
+  """
+  
+   [[experience]]
+  title = "Undergraduate Student"
+  company = "Laboratory of Cerebral Cortex Research, MTA KOKI"
+  company_url = "http://koki.hu/organization/cerebral-cortex-research-106290"
+  location = "Budapest, Hungary"
+  date_start = "Jan 2016"
+  date_end = "Jan 2014"
+  description = """
+  *  Study the interictal functional connectivity network changes in 
+  patients with temporal lobe epilepsy.
+  """
 
 +++
