@@ -25,6 +25,8 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-10-01"
   description = """
+  Main responsibilities:
+  
   * I used Python, AWS, MS SQL Databases for my everyday tasks.
   * I collaborated with other teams to build a scalable storage system on AWS.
   * I was also responsible for integrating datasets into our databases, 
@@ -39,6 +41,8 @@ date_format = "Jan 2006"
   date_start = "2017-12-01"
   date_end = "2018-08-01"
   description = """
+  Main responsibilities:
+  
   * I was focusing on data processing pipeline development and testing in Python.
   * For an independent research project, 
   I learnt how to cluster emotional responses to find groups of people 
@@ -53,6 +57,8 @@ date_format = "Jan 2006"
   date_start = "2017-06-01"
   date_end = "2017-10-01"
   description = """
+  Main responsibilities:
+  
   * Manage, organize and participate in monthly measurement weeks, 
   supervise and train research assistants.
   """
@@ -65,6 +71,8 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2017-05-01"
   description = """
+  Main responsibilities:
+  
   * Participate in monthly measurement weeks, manage and help out 
   research assistants with applying biometric sensors.
   """
@@ -77,6 +85,8 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-08-01"
   description = """
+  Main research topic:
+  
   *  Study the interictal functional connectivity network changes in 
   patients with temporal lobe epilepsy.
   """
@@ -89,6 +99,8 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2014-01-01"
   description = """
+  Main research topic:
+  
   *  Study the interictal functional connectivity network changes in 
   patients with temporal lobe epilepsy.
   """
