@@ -1,7 +1,11 @@
 ---
 title: Anna Szonja Weigl
-role: Engineer d'étude
+role: Data Engineer, Data Science, Neuroscience Enthusiast
 avatar_filename: avatar.jpg
+bio: Placeholder
+interests:
+  - BioData Processing and Visualisation
+  - Functional Connectivity (EEG) Analysis
 social:
   - icon_pack: fab
     link: https://github.com/weiglszonja
@@ -24,11 +28,12 @@ organizations:
 education:
   courses:
     - course: Info-Bionics Engineering MSc
-      institution: Pázmány Péter Catholic University
+      institution: Pázmány Péter Catholic University, Budapest,  Hungary
       year: 2020
     - course: Molecular Bionics Engineering BSc
-      institution: Pázmány Péter Catholic University
+      institution: Pázmány Péter Catholic University, Budapest,  Hungary
       year: 2016
 email: wszonja@gmail.com
 superuser: true
 ---
+Placeholder
