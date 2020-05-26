@@ -3,13 +3,13 @@ title: Anna Szonja Weigl
 role: Engineer d'étude
 avatar_filename: id_weigl.jpg
 social:
-  - icon_pack: ai
+  - icon_pack: fab
     link: https://github.com/weiglszonja
     icon: github
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/weiglszonja/
-  - icon_pack: ai
+  - icon_pack: far
     link: https://www.memoteam.org/
     icon: brain
   - link: https://www.instagram.com/szonjaweigl/
