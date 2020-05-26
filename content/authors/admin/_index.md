@@ -1,7 +1,7 @@
 ---
 title: Anna Szonja Weigl
 role: Engineer d'étude
-avatar_filename: id_weigl.jpg
+avatar_filename: avatar.jpg
 social:
   - icon_pack: fab
     link: https://github.com/weiglszonja
