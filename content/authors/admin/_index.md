@@ -1,8 +1,8 @@
 ---
 title: Anna Szonja Weigl
 role: Data Engineer, Data Science, Neuroscience Enthusiast
-avatar_filename: avatar.jpg
-bio: Placeholder
+avatar_filename: avatar.png
+bio: ""
 interests:
   - BioData Processing and Visualisation
   - Functional Connectivity (EEG) Analysis
