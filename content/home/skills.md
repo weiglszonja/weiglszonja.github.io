@@ -18,37 +18,37 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Jupyter Notebook"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "google"
   icon_pack = "fab"
   name = "Google Colab"
-  description = ""  
+  description = " "  
   
   [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "MNE - software for processing MEG and EEG data"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "git"
   icon_pack = "fab"
   name = "Version Control"
-  description = ""
+  description = " "
   
 
 # Uncomment to use emoji icons.
