@@ -9,7 +9,7 @@ social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/weiglszonja/
-  - icon_pack: far
+  - icon_pack: fas
     link: https://www.memoteam.org/
     icon: brain
   - link: https://www.instagram.com/szonjaweigl/
