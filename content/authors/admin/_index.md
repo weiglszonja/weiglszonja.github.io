@@ -4,8 +4,9 @@ role: Data Engineer, Data Science, Neuroscience Enthusiast
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - BioData Processing and Visualisation
+  - Data Processing and Visualisation using Python
   - Functional Connectivity (EEG) Analysis
+  - Web programming
 social:
   - icon_pack: fab
     link: https://github.com/weiglszonja
