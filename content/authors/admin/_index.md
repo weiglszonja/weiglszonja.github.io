@@ -1,7 +1,7 @@
 ---
 title: Anna Szonja Weigl
 role: Data Engineer, Data Science, Neuroscience Enthusiast
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Processing and Visualisation using Python
