@@ -4,8 +4,9 @@ role: Data Engineer, Data Science, Neuroscience Enthusiast
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Data Processing and Visualisation using Python
-  - Functional Connectivity (EEG) Analysis
+  - Neural time series data (EEG) analysis
+  - Visualization dashboards
+  - Functional connectivity analysis
   - Web programming
 social:
   - icon_pack: fab
