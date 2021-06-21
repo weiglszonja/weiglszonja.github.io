@@ -1,8 +1,8 @@
 ---
 title: Anna Szonja Weigl
-role: Data Engineer, Data Science, Neuroscience Enthusiast
-avatar_filename: avatar.jpg
-bio: ""
+role: Engineer
+avatar_filename: avatar.png
+bio: "Neuroscience enthusiast with Data Engineering background"
 interests:
   - Neural time series data (EEG) analysis
   - Visualization dashboards
