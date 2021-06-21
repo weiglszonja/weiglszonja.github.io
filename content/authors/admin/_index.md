@@ -38,4 +38,16 @@ education:
 email: wszonja@gmail.com
 superuser: true
 ---
-Placeholder
+I currently work as an Engineer at CRNL, building EEG data processing and
+analysis pipelines for a research group interested in probabilistic learning (
+[MemoTeam](https://www.memoteam.org/team-members)).
+
+I have a solid programming background in Python, that comes from 2+ years of
+working in industry experience. During that period I learnt the principles
+about building scalable data pipelines and storing data in a format that is
+easily accessible and maintainable. I am trying to use this data and software
+oriented knowledge in my everyday tasks at the Memo Team.
+
+I am an advocate of (M)EEG data processing with an ambition towards scalability
+and reproducibility. I try to push my boundaries, learn new technologies and
+remember to look up at the stars and not down at my feet.
